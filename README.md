@@ -1,2 +1,3 @@
-# game_data
-CHPL game data twig extension
+CPHL Game Data
+
+player data: {{ game_data('game ID') }}

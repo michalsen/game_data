@@ -1,0 +1,5 @@
+name: CPHL Game Data
+type: module
+description: 'Game Data Twig Extensions'
+core: 8.x
+package: Michalsen
